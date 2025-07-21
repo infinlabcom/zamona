@@ -1,6 +1,3 @@
-# Zamona
-Zamona – A modern content platform with 600,000+ high-quality articles, combining speed, scale, and smart search for global readers.
-
 # Welcome to Zamona 📚🌍
 
 **Zamona** is a high-performance content platform delivering over **600,000+ valuable articles** across various topics — from health and tech to lifestyle, history, and beyond.
